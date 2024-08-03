@@ -1,4 +1,4 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
+coding:
+  name: coding projects
+  description: Deep dive into the digital
+  cover: false
