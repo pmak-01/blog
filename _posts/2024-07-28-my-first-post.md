@@ -4,7 +4,6 @@ cover:  False
 navigation: True
 title: My First Post
 date: 2024-07-28 13.51.00
-tags: [Getting started]
 class: post-template
 subclass: 'post'
 author: pmak
